@@ -67,7 +67,7 @@ h2{
     width:95%;
     text-align: center;
     cursor: pointer;
-    background-color: rgb(19, 54, 143);
+    background-color:brown;
     font-size: large;
     color: #fff;
     margin:10px auto;
@@ -75,8 +75,8 @@ h2{
 }
 .view-cart{
     background-color: #fff;
-    border: 2px solid rgb(20, 37, 161);
-    color: rgb(14, 14, 155);
+    border: 2px solid brown;
+    color: brown;
 }
 .cart-icon{
     text-align: right;
@@ -113,7 +113,7 @@ margin-top: 35%;
  } 
 
  .fa-window-close{
-     color: blue;
+     color:brown;
  }
  .cancel{
      text-align: right;
@@ -139,7 +139,7 @@ margin-top: 35%;
   position: relative;
   top:-20px;
   right:20%;
-  background-color:rgb(7, 3, 101);;
+  background-color:brown;
   border-radius: 50%;
 }
 
@@ -174,7 +174,7 @@ margin-top: 35%;
     /* margin-top:10px; */
     padding: 10px 15px;
     cursor: pointer;
-    background-color: rgb(7, 3, 101);
+    background-color: brown;
     border-radius: 3px;
     font-size: large;
     color:#fff
